@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Biddlecom Popular Movies Stage 2 Take 4</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="poster_image_view_description">Image of movie poster</string>
+    <string name="error_message_check_internet">Well, this is embarrassing!\n\nPlease check your internet
+        connection and try again.\n\n\#MaximumEffort</string>
+    <string name="error_message_no_favorite_movies">It\'s pretty lonely in here.\n\nHow about adding
+        a movie to your favorites so I have someone to talk to.\n\nThanks buddy!</string>
+    <string name="error_message_no_movies">Well, this is embarrassing!\n\nIt seems something went wrong
+        and we couldn\'t retrieve any movies.\n\nPlease check your internet connection\n and let\'s try
+        that again, shall we\?\n\n\#MaximumEffort</string>
+
+    <!-- DETAIL ACTIVITY -->
+    <string name="fake_movie_title">Stick It</string>
+    <string name="content_description_favorite_heart_button">Favorite Movie Button</string>
+    <string name="release_date_label">Release Date:</string>
+    <string name="fake_release_date_numbers">2006&#8211;04&#8211;28</string>
+    <string name="user_rating_label">User Rating:</string>
+    <string name="fake_user_rating_numbers">100</string>
+    <string name="plot_summary_label">Plot Summary:</string>
+    <string name="fake_plot_summary">Haley \(Missy Peregrym\) is a naturally gifted athlete but,
+        with her social behavior, the teen seems intent on squandering her abilities.
+        After a final brush with the law, a judge sentences her to an elite gymnastics academy run
+        by a legendary, hard-nosed coach \(Jeff Bridges\). Once there, Haley\'s rebellious attitude
+        wins her both friends and enemies.</string>
+    <string name="movie_trailer_label">Trailers:</string>
+    <string name="content_description_movie_trailer_image_button">Movie Trailer Play Button</string>
+    <string name="fake_movie_trailer_name">Stick It Official Trailer</string>
+    <string name="movie_reviews_label">Reviews:</string>
+    <string name="fake_movie_review_author_name">Haley Graham</string>
+    <string name="fake_movie_review_content">Gymnastics tells you NO all day long.
+        It mocks you over and over again, telling you that you\'re an idiot. That you\'re crazy.
+        If you like running full speed towards a stationary object, vault\'s for you. If you like
+        peeling pieces of skin the size of quarters off your hands, bars is for you.
+        Because the only thing more fun than rips, is when your rips get rips. It\'s super sexy.
+        And floor? Are you serious? I mean, who doesn\'t wanna parade around in a leotard getting
+        wedgies and doing dorky choreography? It\'s delicious. If you like falling, then gymnastics
+        is THE sport for you! You get to fall on your face, your ass, your back,
+        your knees and your pride! Good thing I didn\'t like falling. I LOVED it!</string>
+    <string name="detail_activity_error_message">Well, this is embarrassing!\nLet\'s try that again.\n\n\#MaximumEffort</string>
+    <string name="detail_activity_no_trailers_error_message">Sorry, No Trailers Are Available For This Movie.</string>
+    <string name="detail_activity_no_reviews_error_message">Sorry, No Reviews Are Available For This Movie.</string>
+    <string name="detail_activity_error_playing_trailer">Unable to play the requested video.\n
+        Please install a web browser or the YouTube app.</string>
+    <string name="detail_activity_error_adding_or_deleting_favorite_movie">Error Adding Or Deleting Favorite Movie</string>
+    <string name="detail_activity_success_adding_a_movie">You Have Successfully Added A Movie To Your Favorites</string>
+    <string name="detail_activity_success_deleting_a_movie">You Have Successfully Deleted A Movie From Your Favorites</string>
+
+    <!-- SORT BY Menu item -->
+    <string name="menu_icon_sort">Sort By</string>
+    <string name="menu_action_sort_by_most_popular">Most Popular</string>
+    <string name="menu_action_sort_by_top_rated">Top Rated</string>
+    <string name="menu_action_sort_by_favorites">My Favorites</string>
+</resources>

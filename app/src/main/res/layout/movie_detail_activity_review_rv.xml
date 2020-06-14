@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/movie_detail_review_author_RV_Item"
+        style="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/movie_detail_review_author_RV_Item_bottom_margin"
+        android:textStyle="bold"
+        tools:text="Author Name" />
+
+    <TextView
+        android:id="@+id/movie_detail_review_content_RV_item"
+        style="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Review Content" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/movie_detail_activity_reviews_spacer_view_height"
+        android:layout_marginTop="@dimen/movie_detail_activity_reviews_spacer_view_margin"
+        android:layout_marginBottom="@dimen/movie_detail_activity_reviews_spacer_view_margin"
+        android:background="@color/colorPrimaryDark" />
+</LinearLayout>

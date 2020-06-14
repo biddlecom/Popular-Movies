@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Biddlecom Popular Movies Stage 2 Take 4'

@@ -1,0 +1,54 @@
+<resources>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+
+    <dimen name="indeterminate_progress_bar_margin_bottom">12dp</dimen>
+
+
+    <dimen name="main_activity_linear_layout_padding">8dp</dimen>
+    <dimen name="main_activity_poster_title_linear_layout_margin">8dp</dimen>
+
+
+    <dimen name="padding_top_no_reviews_tv">8dp</dimen>
+    <dimen name="padding_bottom_no_reviews_tv">16dp</dimen>
+
+
+    <dimen name="padding_top_no_trailer_tv">8dp</dimen>
+    <dimen name="padding_bottom_no_trailers_tv">24dp</dimen>
+
+
+    <dimen name="movie_detail_activity_margin_left">8dp</dimen>
+    <dimen name="movie_detail_activity_scrollview_padding">12dp</dimen>
+
+
+    <dimen name="movie_detail_poster_top_margin">16dp</dimen>
+    <dimen name="movie_detail_poster_start_margin">8dp</dimen>
+    <dimen name="movie_detail_poster_width">200dp</dimen>
+    <dimen name="movie_detail_poster_height">300dp</dimen>
+
+
+    <dimen name="movie_detail_favorite_heart_button_size">52dp</dimen>
+    <dimen name="movie_detail_favorite_heart_button_start_margin">8dp</dimen>
+
+
+    <dimen name="movie_trailer_play_button_RV_item_size">52dp</dimen>
+    <dimen name="movie_trailer_play_button_RV_Item_right_end_margin">16dp</dimen>
+    <dimen name="movie_trailer_play_button_RV_Item_top_bottom_margin">4dp</dimen>
+
+
+    <dimen name="movie_detail_activity_trailers_reviews_label_top_margin">24dp</dimen>
+
+
+    <dimen name="movie_detail_activity_labels_top_margin">16dp</dimen>
+    <dimen name="movie_detail_activity_spacing_between_label_and_value">8dp</dimen>
+
+
+    <dimen name="movie_detail_activity_reviews_spacer_view_height">4dp</dimen>
+    <dimen name="movie_detail_activity_reviews_spacer_view_margin">12dp</dimen>
+
+
+    <dimen name="movie_detail_review_author_RV_Item_bottom_margin">8dp</dimen>
+</resources>
